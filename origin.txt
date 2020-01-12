@@ -1,0 +1,172 @@
+Uri: http://hamster.goodshop.of.by/
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\index.htm
+Content Type: text/html
+
+Uri: http://hamster.goodshop.of.by/favicon.png
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\favicon.png
+Content Type: image/png
+
+Uri: http://hamster.goodshop.of.by/css/owl.carousel.min.css
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://hamster.goodshop.of.by/css/styles.css
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\css\styles.css
+Content Type: text/css
+
+Uri: http://hamster.goodshop.of.by/politics.html
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\politics.html
+Content Type: text/html
+
+Uri: http://hamster.goodshop.of.by/img/homa2.gif
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\homa2.gif
+Content Type: image/gif
+
+Uri: http://hamster.goodshop.of.by/img/1.jpeg
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\1.jpeg
+Content Type: image/jpeg
+
+Uri: http://hamster.goodshop.of.by/img/2.jpeg
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\2.jpeg
+Content Type: image/jpeg
+
+Uri: http://hamster.goodshop.of.by/img/3.jpeg
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\3.jpeg
+Content Type: image/jpeg
+
+Uri: http://hamster.goodshop.of.by/img/4.jpeg
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\4.jpeg
+Content Type: image/jpeg
+
+Uri: http://hamster.goodshop.of.by/img/rev-1.jpeg
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\rev-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://hamster.goodshop.of.by/img/rev-2.jpeg
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\rev-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://hamster.goodshop.of.by/img/rev-3.jpeg
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\rev-3.jpeg
+Content Type: image/jpeg
+
+Uri: http://hamster.goodshop.of.by/js/owl.carousel.min.js
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://hamster.goodshop.of.by/js/scripts.js
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://hamster.goodshop.of.by/utm.js
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\utm.js
+Content Type: application/javascript
+
+Uri: http://hamster.goodshop.of.by/validate.js
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\validate.js
+Content Type: application/javascript
+
+Uri: http://hamster.goodshop.of.by/fonts/Akrobat-Regular.bin
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\fonts\Akrobat-Regular.bin
+Content Type: application/octet-stream
+
+Uri: http://hamster.goodshop.of.by/fonts/Akrobat-Regular.woff
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\fonts\Akrobat-Regular.woff
+Content Type: font/woff
+
+Uri: http://hamster.goodshop.of.by/fonts/Akrobat-Regular-1.bin
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\fonts\Akrobat-Regular-1.bin
+Content Type: application/octet-stream
+
+Uri: http://hamster.goodshop.of.by/fonts/Akrobat-SemiBold.bin
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\fonts\Akrobat-SemiBold.bin
+Content Type: application/octet-stream
+
+Uri: http://hamster.goodshop.of.by/fonts/Akrobat-SemiBold.woff
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\fonts\Akrobat-SemiBold.woff
+Content Type: font/woff
+
+Uri: http://hamster.goodshop.of.by/fonts/Akrobat-SemiBold-1.bin
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\fonts\Akrobat-SemiBold-1.bin
+Content Type: application/octet-stream
+
+Uri: http://hamster.goodshop.of.by/fonts/Akrobat-Bold.bin
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\fonts\Akrobat-Bold.bin
+Content Type: application/octet-stream
+
+Uri: http://hamster.goodshop.of.by/fonts/Akrobat-Bold.woff
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\fonts\Akrobat-Bold.woff
+Content Type: font/woff
+
+Uri: http://hamster.goodshop.of.by/fonts/Akrobat-Bold-1.bin
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\fonts\Akrobat-Bold-1.bin
+Content Type: application/octet-stream
+
+Uri: http://hamster.goodshop.of.by/fonts/Akrobat-ExtraBold.bin
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\fonts\Akrobat-ExtraBold.bin
+Content Type: application/octet-stream
+
+Uri: http://hamster.goodshop.of.by/fonts/Akrobat-ExtraBold.woff
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\fonts\Akrobat-ExtraBold.woff
+Content Type: font/woff
+
+Uri: http://hamster.goodshop.of.by/fonts/Akrobat-ExtraBold-1.bin
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\fonts\Akrobat-ExtraBold-1.bin
+Content Type: application/octet-stream
+
+Uri: http://hamster.goodshop.of.by/img/slider__arrows.png
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\slider__arrows.png
+Content Type: image/png
+
+Uri: http://hamster.goodshop.of.by/img/bg_18.jpeg
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\bg_18.jpeg
+Content Type: image/jpeg
+
+Uri: http://hamster.goodshop.of.by/img/offer_bg.jpeg
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\offer_bg.jpeg
+Content Type: image/jpeg
+
+Uri: http://hamster.goodshop.of.by/img/offer__price_arrow.png
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\offer__price_arrow.png
+Content Type: image/png
+
+Uri: http://hamster.goodshop.of.by/img/offer__tick_icon.png
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\offer__tick_icon.png
+Content Type: image/png
+
+Uri: http://hamster.goodshop.of.by/img/components_bg.jpeg
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\components_bg.jpeg
+Content Type: image/jpeg
+
+Uri: http://hamster.goodshop.of.by/img/benefits__benefit1_image.jpeg
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\benefits__benefit1_image.jpeg
+Content Type: image/jpeg
+
+Uri: http://hamster.goodshop.of.by/img/benefits__benefit2_image.jpeg
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\benefits__benefit2_image.jpeg
+Content Type: image/jpeg
+
+Uri: http://hamster.goodshop.of.by/img/benefits__benefit3_image.jpeg
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\benefits__benefit3_image.jpeg
+Content Type: image/jpeg
+
+Uri: http://hamster.goodshop.of.by/img/reviews__stars.png
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\reviews__stars.png
+Content Type: image/png
+
+Uri: http://hamster.goodshop.of.by/img/order_steps__step1_icon.png
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\order_steps__step1_icon.png
+Content Type: image/png
+
+Uri: http://hamster.goodshop.of.by/img/order_steps__step2_icon.png
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\order_steps__step2_icon.png
+Content Type: image/png
+
+Uri: http://hamster.goodshop.of.by/img/order_steps__step3_icon.png
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\order_steps__step3_icon.png
+Content Type: image/png
+
+Uri: http://hamster.goodshop.of.by/img/order_steps__step4_icon.png
+File Name: C:\Users\Максим\Downloads\hamster.goodshop.of.by\img\order_steps__step4_icon.png
+Content Type: image/png
+
